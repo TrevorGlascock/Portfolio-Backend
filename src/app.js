@@ -6,9 +6,11 @@ const app = express();
 const projectsRouter = require("./projects/projects.router");
 
 app.use(cors());
-
 app.use(express.json());
 
 app.use("/projects", projectsRouter);
+
+app.use(routeNotFound);
+app.use(errorHandler);
 
 module.exports = app;
