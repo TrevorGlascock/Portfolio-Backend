@@ -3,7 +3,8 @@ const path = require("path");
 require("dotenv").config();
 
 const {
-  DEV_DATABASE_URL = "postgres://anwibkzf:Q87kaEaeJ6Y3qaeLqZi0C06QywPvJaAj@chunee.db.elephantsql.com/anwibkzf",
+  DEV_DATABASE_URL = 'postgres://rvutwzsq:qzsSlRA9pOz4On_kVLQwg4UkWRVF1Zd2@chunee.db.elephantsql.com/rvutwzsq',
+
   PROD_DATABASE_URL,
 } = process.env;
 
