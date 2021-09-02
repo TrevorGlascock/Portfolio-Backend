@@ -3,13 +3,13 @@ exports.up = function (knex) {
     table.increments("project_id").primary();
     table.string("project_title");
     table.text("project_description");
-    table.string("project_screenshot");
+    table.text("project_screenshot");
     
-    table.string("frontend_repo");
-    table.string("frontend_deploy");
+    table.text("frontend_repo");
+    table.text("frontend_deploy");
 
-    table.string("backend_repo");
-    table.string("backend_deploy");
+    table.text("backend_repo");
+    table.text("backend_deploy");
   });
 };
 
