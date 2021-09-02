@@ -6,7 +6,7 @@ function list() {
 }
 
 function read(project_id) {
-  return "projects".select("*").where({ project_id }).first();
+  return db("projects").select("*").where({ project_id }).first();
 }
 
 module.exports = {
