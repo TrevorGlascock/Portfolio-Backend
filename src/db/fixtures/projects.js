@@ -2,7 +2,7 @@ module.exports = [
   {
     project_title: "Glasscard Flashcards",
     project_description:
-      "Full-Stack Flashcard app built from the ground-up in React",
+      "- Allows a user to make, edit, and study a flashcard deck.\n- Built each React Component from scratch, reusing common components to keep the code DRY and maintainable\n- Used a Test Driven Development cycle to ensure new functionality did not compromise existing code.\n- Built using JavaScript, React, HTML, CSS, and Bootstrap.",
 
     project_screenshot:
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/glasscards.png",
@@ -15,10 +15,7 @@ module.exports = [
   },
   {
     project_title: "Pomodoro Timer",
-    project_description: `- A Productivity Timer that allows a user to set the work and break time intervals.
-      - Designed the structure of each React Component.
-      - Optimized the app to avoid all race conditions and utilize state-controlled variables.
-      - Built using JavaScript, React, HTML, CSS, and Bootstrap.`,
+    project_description: `- A Productivity Timer that allows a user to set the work and break time intervals.\n- Designed the structure of each React Component.\n- Optimized the app to avoid all race conditions and utilize state-controlled variables.\n- Built using JavaScript, React, HTML, CSS, and Bootstrap.`,
 
     project_screenshot:
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/pomtimer.png",
@@ -32,7 +29,7 @@ module.exports = [
   {
     project_title: "We Love Movies!",
     project_description:
-      "An example of a mock database that stores movies, reviews, and theaters in relational databases.",
+      "A mock database that stores movies, reviews, and theaters in relational databases.\n- Designed all backend endpoints using RESTful design principles and an inside-out development workflow.\n- Built using JavaScript, Node, Express, and Knex.",
 
     project_screenshot:
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/lovemovies.png",
