@@ -21,7 +21,7 @@ module.exports = [
       - Built using JavaScript, React, HTML, CSS, and Bootstrap.`,
 
     project_screenshot:
-      "https://raw.githubusercontent.com/TrevorGlascock/Project_Pomodoro_Timer/main/Screenshots/timer.png",
+      "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/pomtimer.png",
 
     frontend_repo: "https://github.com/TrevorGlascock/Project_Pomodoro_Timer",
     frontend_deploy: "https://dry-dusk-16081.herokuapp.com/",
