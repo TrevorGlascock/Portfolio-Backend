@@ -15,11 +15,13 @@ module.exports = [
   },
   {
     project_title: "Pomodoro Timer",
-    project_description:
-      "A Productivity Timer that allows a user to set an interval for focusing, followed by an interval for a break.",
+    project_description: `- A Productivity Timer that allows a user to set the work and break time intervals.
+      - Designed the structure of each React Component.
+      - Optimized the app to avoid all race conditions and utilize state-controlled variables.
+      - Built using JavaScript, React, HTML, CSS, and Bootstrap.`,
 
     project_screenshot:
-      "https://raw.githubusercontent.com/TrevorGlascock/Project_Pomodoro_Timer/main/Screenshots/timer.png",
+      "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/pomtimer.png",
 
     frontend_repo: "https://github.com/TrevorGlascock/Project_Pomodoro_Timer",
     frontend_deploy: "https://dry-dusk-16081.herokuapp.com/",
