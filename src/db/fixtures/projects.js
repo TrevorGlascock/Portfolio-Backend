@@ -15,10 +15,7 @@ module.exports = [
   },
   {
     project_title: "Pomodoro Timer",
-    project_description: `- A Productivity Timer that allows a user to set the work and break time intervals.
-      - Designed the structure of each React Component.
-      - Optimized the app to avoid all race conditions and utilize state-controlled variables.
-      - Built using JavaScript, React, HTML, CSS, and Bootstrap.`,
+    project_description: `- A Productivity Timer that allows a user to set the work and break time intervals.\n- Designed the structure of each React Component.\n- Optimized the app to avoid all race conditions and utilize state-controlled variables.\n- Built using JavaScript, React, HTML, CSS, and Bootstrap.`,
 
     project_screenshot:
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/pomtimer.png",
