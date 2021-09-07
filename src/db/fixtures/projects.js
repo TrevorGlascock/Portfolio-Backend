@@ -35,8 +35,7 @@ module.exports = [
       "An example of a mock database that stores movies, reviews, and theaters in relational databases.",
 
     project_screenshot:
-      "https://camo.githubusercontent.com/faece7f96de750f2335261da18ddaeff40326679575da63290569be5d9a8cee5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7374726976652f696d6167652f75706c6f61642f775f313030302c685f313030302c635f6c696d69742f30363539366466366234633539623435336336396438346432626338353462332d686f6d652e706e67",
-
+      "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/lovemovies.png",
     frontend_repo: "https://github.com/TrevorGlascock/starter-movie-front-end",
     frontend_deploy: "https://welovemovies127890frontend.herokuapp.com/",
 
