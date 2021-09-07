@@ -2,7 +2,7 @@ module.exports = [
   {
     project_title: "Glasscard Flashcards",
     project_description:
-      "Full-Stack Flashcard app built from the ground-up in React",
+      "- A web app that allows a user to make, edit, delete, and study a set of flashcards.\n- Built each React Component from scratch, reusing common components where possible to keep the code DRY and maintainable\n- Used a Test Driven Development cycle to ensure new functionality did not compromise existing code. - Built using JavaScript, React, HTML, CSS, and Bootstrap.",
 
     project_screenshot:
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/glasscards.png",
