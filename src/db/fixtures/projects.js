@@ -29,7 +29,7 @@ module.exports = [
   {
     project_title: "We Love Movies!",
     project_description:
-      "An example of a mock database that stores movies, reviews, and theaters in relational databases.",
+      "A mock database that stores movies, reviews, and theaters in relational databases.\n- Designed all backend endpoints using RESTful design principles and an inside-out development workflow.\n- Built using JavaScript, Node, Express, and Knex.",
 
     project_screenshot:
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/lovemovies.png",
