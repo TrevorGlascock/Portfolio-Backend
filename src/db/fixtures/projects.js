@@ -1,5 +1,20 @@
 module.exports = [
   {
+    project_title: "Restaurant Reservations",
+    project_description:
+      "- Allows a user to make, edit, cancel and seat reservations in a restaurant.\n- Allows for the creation of tables for the seating of reservations.\n- Allows the user to search for reservations by any valid property.\n- Frontend built using JavaScript, React, HTML, CSS, and Bootstrap.\n- Backend API built using JavaScript, Node, Express, and Knex.\n- PostgreSQL database hosted by ElephantSql.\n- Unit testing is done with Jest, Supertest, and Puppeteer with CI on Github to confirm functionality.",
+
+    project_screenshot:
+      "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/restreserve.png",
+
+    frontend_repo: "https://github.com/TrevorGlascock/Restaurant_Reservation",
+    frontend_deploy:
+      "https://restaurant-reserve-127-client.herokuapp.com/dashboard",
+
+    backend_repo: null,
+    backend_deploy: "https://restaurant-reserve-127-backend.herokuapp.com/",
+  },
+  {
     project_title: "Glasscard Flashcards",
     project_description:
       "- Allows a user to make, edit, and study a flashcard deck.\n- Built each React Component from scratch, reusing common components to keep the code DRY and maintainable\n- Used a Test Driven Development cycle to ensure new functionality did not compromise existing code.\n- Built using JavaScript, React, HTML, CSS, and Bootstrap.",
