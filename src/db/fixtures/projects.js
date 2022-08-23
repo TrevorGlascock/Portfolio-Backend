@@ -54,4 +54,16 @@ module.exports = [
     backend_repo: "https://github.com/TrevorGlascock/WeLoveMovies-Backend",
     backend_deploy: "https://welovemovies127890backend.herokuapp.com/",
   },
+  {
+    project_title: "Decoder Ring",
+    project_description:
+      "A Message Decoder App that enables a user to encode or decode messages using 3 different cipher algorithms.\n- Data algorithm excercise designed with Test-Driven-Development.\n- Built using React, JavaScript, Mocha, and Chai.",
+    project_screenshot:
+      "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/decoder.png",
+    frontend_repo: "https://github.com/TrevorGlascock/Decoder_Ring_Web_App",
+    frontend_deploy: "https://trevorglascock.github.io/Decoder_Ring_Web_App/",
+
+    backend_repo: null,
+    backend_deploy: null,
+  },
 ];
