@@ -8,11 +8,10 @@ module.exports = [
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/restreserve.png",
 
     frontend_repo: "https://github.com/TrevorGlascock/Restaurant_Reservation",
-    frontend_deploy:
-      "https://restaurant-reserve-127-client.herokuapp.com/dashboard",
+    frontend_deploy: "https://restaurant-reservation-frco.onrender.com/dashboard",
 
     backend_repo: null,
-    backend_deploy: "https://restaurant-reserve-127-backend.herokuapp.com/",
+    backend_deploy: "https://restaurant-reservation-backend-dbc0.onrender.com/",
   },
   {
     project_title: "Glasscard Flashcards",
@@ -36,7 +35,7 @@ module.exports = [
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/pomtimer.png",
 
     frontend_repo: "https://github.com/TrevorGlascock/Project_Pomodoro_Timer",
-    frontend_deploy: "https://dry-dusk-16081.herokuapp.com/",
+    frontend_deploy: "https://pomodoro-timer-5zb5.onrender.com/",
 
     backend_repo: null,
     backend_deploy: null,
@@ -49,10 +48,10 @@ module.exports = [
     project_screenshot:
       "https://raw.githubusercontent.com/TrevorGlascock/Portfolio-Backend/main/screenshots/lovemovies.png",
     frontend_repo: "https://github.com/TrevorGlascock/starter-movie-front-end",
-    frontend_deploy: "https://welovemovies127890frontend.herokuapp.com/",
+    frontend_deploy: "https://we-love-movies-f8wc.onrender.com/",
 
     backend_repo: "https://github.com/TrevorGlascock/WeLoveMovies-Backend",
-    backend_deploy: "https://welovemovies127890backend.herokuapp.com/",
+    backend_deploy: "https://we-love-movies-backend-e2xy.onrender.com/",
   },
   {
     project_title: "Decoder Ring",
